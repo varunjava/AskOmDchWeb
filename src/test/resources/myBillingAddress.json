@@ -1,0 +1,14 @@
+{
+  "firstName":"James",
+  "lastName":"Jcobs",
+  "companyName":"D-Company",
+  "countryName": "India",
+  "billingAddress1":"8 Lavelle Street  Oxford Town",
+  "billingAddress2":"near University",
+  "billingCity":"HSR Layout",
+  "stateName": "Karnataka",
+  "billingPostCode":"560010",
+  "phone":"9876543210",
+  "email":"demouser100@gmail.com",
+  "comments":"to be nice"
+}
